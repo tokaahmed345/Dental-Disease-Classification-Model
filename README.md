@@ -115,7 +115,7 @@
     <p>
         The following graph shows the training and validation accuracy over epochs:
     </p>
-    <img src="screenshots/training_plot.PNG" alt="Training Graph" style="width:250; border-radius:10px;">
+    <img src="screenshots/training_plot.PNG" alt="Training Graph" style="width:250px; border-radius:10px;">
 </div>
 
     <div class="section box">

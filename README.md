@@ -1,35 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dental Disease Classification Model</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        code {
-            background: #eee;
-            padding: 5px;
-            border-radius: 5px;
-        }
-        .section {
-            margin-bottom: 30px;
-        }
-        .box {
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-    </style>
-</head>
+
 <body>
 
     <h1>🦷 Dental Disease Classification Model</h1>

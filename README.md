@@ -110,6 +110,13 @@
             <li>Use advanced architectures</li>
         </ul>
     </div>
+    <div class="section box">
+    <h2>📈 Training Performance</h2>
+    <p>
+        The following graph shows the training and validation accuracy over epochs:
+    </p>
+    <img src="screenshots/training_plot.PNG" alt="Training Graph" style="width:100%; border-radius:10px;">
+</div>
 
     <div class="section box">
         <h2>👩‍💻 Author</h2>

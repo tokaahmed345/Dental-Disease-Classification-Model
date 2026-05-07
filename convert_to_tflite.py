@@ -14,11 +14,10 @@ tflite_file = 'dental_model.tflite'
 with open(tflite_file, 'wb') as f:
     f.write(tflite_model)
 
-print(f"✅ تم تحويل الموديل بنجاح: {tflite_file}")
-
+print(f"✅ Model converted successfully: {tflite_file}")
 classes = ['Calculus', 'Caries', 'Gingivitis', 'Mouth_Ulcer']
 with open('labels.txt', 'w') as f:
     for item in classes:
         f.write(item + '\n')
 
-print("✅ تم إنشاء ملف labels.txt بنجاح")
+print("✅ labels.txt file created successfully")

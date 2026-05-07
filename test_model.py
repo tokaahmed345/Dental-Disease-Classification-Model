@@ -44,7 +44,7 @@ def predict_any_image(img_path):
     plt.show()
 
 
-test_image = r'C:/Users/owner/Desktop/images.jfif'
+test_image = r'C:/Users/owner/Desktop/test_image.jfif'
 
 predict_any_image(test_image)
-# 'C:/Users/owner/Desktop/test_image.jpg'
+# 'C:/Users/owner/Desktop/test_image.jfif'
